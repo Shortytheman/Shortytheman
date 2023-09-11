@@ -3,4 +3,4 @@ Software Developer currently attending Københavns Erhvervs Akademi in Copenhage
 Software developer intern for Banedanmark
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shortytheman&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shortytheman_repo=github-readme-stats,anuraghazra.github.io)
